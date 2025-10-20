@@ -1,0 +1,20 @@
+1.1 Views
+	1.1.1 Course view: show all available courses with progress for each.
+	1.1.2 Lesson view: show all lessons in a course and track completion.
+	1.1.3 Practice view: interactive exercises for each lesson.
+	1.1.4 Review view: show past lessons and quiz results.
+1.2 Courses & Lessons
+	1.2.1 Add and edit courses and lessons.
+	1.2.2 Add quizzes or exercises to lessons.
+	1.2.3 Check progress and scores automatically.
+	1.2.4 Allow teachers to upload and share their own courses.
+1.3 Users
+	1.3.1 Student accounts: enroll in courses and track progress.
+	1.3.2 Teacher accounts: create and manage courses.
+	1.3.3 Profile view: show achievements and stats.
+1.4 Study Features
+	1.4.1 Daily reminders or streak tracking.
+	1.4.2 Points and badges for motivation.
+1.5 Interface
+	1.5.1 Simple, responsive design for web and mobile.
+	1.5.2 Color marking for progress or difficulty.
